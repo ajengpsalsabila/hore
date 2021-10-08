@@ -1,0 +1,28 @@
+body{
+    background-color: lightskyblue;
+    background-image: url(gambar/download.jpg);
+}
+.wrap{
+    width: 40%;
+    margin: auto;
+    color: rgb(5, 10, 1);
+    border-radius: 10px;
+    font-family: comic sans ms;
+    background.color: #C71585;
+}
+.container{
+    padding: 5px;
+}
+table{
+    margin: auto;
+}
+table td{
+    padding: 5px;
+}
+button{
+    width: 50px;
+    font-family: comic sans ms;
+    height: 30px;
+    background-color: #fbff06;
+    background-radius: 7px;
+}
